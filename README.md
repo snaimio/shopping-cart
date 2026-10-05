@@ -30,8 +30,8 @@ This project demonstrates foundational e-commerce logic in vanilla JavaScript. I
 ## 🚀 Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/snaimio/ShoppingCart.git
-   cd ShoppingCart
+   git clone https://github.com/snaimio/shopping-cart.git
+   cd shopping-cart
    ```
 2. Open `index.html` in your web browser.
 
